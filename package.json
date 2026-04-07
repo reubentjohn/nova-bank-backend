@@ -1,4 +1,12 @@
 {
+  "name": "nova-bank-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
